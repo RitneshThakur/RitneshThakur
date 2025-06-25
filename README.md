@@ -68,5 +68,9 @@
 
 <h3 align="left">Contribution Snake:</h3>
 <p align="center">
-  <img src="https://github.com/ritneshthakur/ritneshthakur/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ritneshthakur/ritneshthakur/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ritneshthakur/ritneshthakur/output/github-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/ritneshthakur/ritneshthakur/output/github-snake.svg" />
+  </picture>
 </p>
