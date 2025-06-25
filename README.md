@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **thakurritnesh@gmail.com**
 
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1SpJYwWsiPj2v_v-2bAuGhiOK9LbkXjHw/view)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1u0FuJq-yQ7nmlGutqnRz6B_gg-WCf8U5/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
