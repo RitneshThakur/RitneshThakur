@@ -1,19 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ritnesh Kumar Thakur</h1>
 <h3 align="center">A passionate Flutter Developer & Intern</h3>
 
-<table>
-  <tr>
-    <td width="60%" valign="top">
-
-Motivated Flutter developer with internship experience and successful self-led projects. Skilled at building scalable mobile applications and backend systems. Proficient in Flutter, Firebase, REST APIs, and developing full-stack apps using Go and MySQL. Passionate about clean architecture, code quality, and collaborative teamwork. Actively seeking junior developer roles to grow skills and contribute to dynamic teams.
-
-    </td>
-    <td width="40%" valign="top" align="center">
-      <img src="./assets/coder.gif" alt="Developer GIF" width="250" />
-    </td>
-  </tr>
-</table>
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ritneshthakur&label=Profile%20views&color=0e75b6&style=flat" alt="ritneshthakur" />
 </p>
