@@ -15,7 +15,7 @@
 
 🔭 I’m currently working on **StayMitra** – A PG/Room Rental app built with Flutter and Go
 
-🌱 I’m currently learning **Cloud Security and DevOps**, alongside improving my backend skills in **Go + MySQL**
+🌱 I’m currently learning **Networking **, alongside improving my backend skills in **Go + MySQL**
 
 💬 Ask me about **Flutter, Clean Architecture, BLoC, Firebase, REST APIs**
 
