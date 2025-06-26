@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ritnesh Kumar Thakur</h1>
-<h3 align="center">A passionate Flutter Developer & Intern</h3>
+<h3 align="center">A Motivated Flutter Developer | Passionate about Clean Architecture & Scalable Apps</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ritneshthakur&label=Profile%20views&color=0e75b6&style=flat" alt="ritneshthakur" />
@@ -11,62 +11,88 @@
   </a>
 </p>
 
-- 👨‍💻 All of my projects are available at [ritneshthakur.github.io](https://ritneshthakur.github.io)
+---
 
-- 💬 Ask me about **Flutter, Dart, Android, Clean Architecture, BLoC**
+🔭 I’m currently working on **StayMitra** – A PG/Room Rental app built with Flutter and Go
 
-- 📫 How to reach me: **thakurritnesh@gmail.com**
+🌱 I’m currently learning **Cloud Security and DevOps**, alongside improving my backend skills in **Go + MySQL**
 
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1u0FuJq-yQ7nmlGutqnRz6B_gg-WCf8U5/view?usp=drivesdk)
+💬 Ask me about **Flutter, Clean Architecture, BLoC, Firebase, REST APIs**
 
-<h3 align="left">Connect with me:</h3>
+📫 Reach me at: **thakurritnesh@gmail.com**
+
+🌐 Portfolio: [ritneshthakur.github.io](https://ritneshthakur.github.io)
+
+📄 [Resume](https://drive.google.com/file/d/1u0FuJq-yQ7nmlGutqnRz6B_gg-WCf8U5/view?usp=drivesdk)
+
+---
+
+### 🛠️ Tech Stack
+**Mobile & Web**  
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white) ![Flutter Web](https://img.shields.io/badge/-FlutterWeb-02569B?logo=flutter&logoColor=white)
+
+**State Management**  
+![BLoC](https://img.shields.io/badge/-BLoC-blueviolet) ![GetX](https://img.shields.io/badge/-GetX-red)
+
+**Backend & Databases**  
+![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
+
+**Tools & Practices**  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
+
+---
+
+### 🚀 Projects
+
+**StayMitra – PG/Room Rental App**  
+📍 *Flutter, Go, MySQL, BLoC, Clean Architecture*  
+- Full-stack app built from scratch  
+- REST API with Go + Gorilla Mux  
+- BLoC for clean, maintainable state management  
+- Delivered: auth, CRUD, image uploads | Upcoming: booking, search, filters
+
+**Student Management System**  
+📍 *Go + SQLite (Backend), Flutter (UI Mock)*  
+- Simple CLI backend with SQLite  
+- Demo Flutter UI to show backend flow
+
+**Chat App**  
+📍 *Flutter, Firebase, GetX*  
+- Real-time messaging with Firestore  
+- Secure login via Firebase Auth  
+- Lightweight, fast UI with GetX
+
+**Flutter Web Portfolio**  
+📍 *Flutter Web*  
+- Responsive animated web portfolio  
+- Highlights skills, experience, and projects
+
+---
+
+### 📊 GitHub Stats
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritneshthakur&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
+</p>
+
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ritneshthakur&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+
+---
+
+### 🌍 Connect with Me
+
 <p align="left">
   <a href="https://linkedin.com/in/ritnesh-thakur" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritnesh-thakur" height="30" width="40" />
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-</p>
+---
 
-<h3 align="left">GitHub Stats:</h3>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritneshthakur&show_icons=true&locale=en&layout=compact" alt="ritneshthakur" />
-</p>
+### 🐍 Contribution Snake
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ritneshthakur&show_icons=true&locale=en" alt="ritneshthakur" />
-</p>
-
-<h3 align="left">Contribution Snake:</h3>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ritneshthakur/ritneshthakur/output/github-snake-dark.svg" />
